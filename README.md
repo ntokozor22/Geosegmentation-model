@@ -1,4 +1,4 @@
-# Geosegmentation-model
+# Geodemographic segmentation-model
 The objective of this geodemographic segmentation model was to determine which customers are most likely to leave the bank.
 Some Exploratory Data Analysis(EDA) was conducted to find patterns in the data or to locate any missing values if available.
 The data was split into training and test data using ski-kit learn library.
